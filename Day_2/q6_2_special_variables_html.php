@@ -42,11 +42,11 @@
         $a5=$_POST['m5'];
         $sum=$a1+$a2+$a3+$a4+$a5;
         echo $sum;
-        echo "<br>";
-        echo "<br>";
+
+       
     }
     ?>
-     
+     <br><br>
     <label>Total marks:500 </label>
     <br><br>
     <php?>
